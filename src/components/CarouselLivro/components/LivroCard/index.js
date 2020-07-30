@@ -11,7 +11,7 @@ function getYouTubeId(youtubeURL) {
 }
 */
 function LivroCard({ videoTitle, videoURL, categoryColor }) {
-  const image = {videoURL};
+  const image = videoURL;
   return (
     <LivroCardContainer
       url={image}
