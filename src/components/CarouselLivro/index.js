@@ -1,9 +1,9 @@
 import React from 'react';
-import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
+import { LivroCardGroupContainer, Title, ExtraLink } from './styles';
 import Slider, { SliderItem } from './components/Slider';
-import VideoCard from './components/VideoCard';
+import LivroCard from './components/LivroCard';
 
-function Carousel({
+function LivroCardGroup({
   ignoreFirstVideo,
   category,
 }) {
@@ -12,7 +12,7 @@ function Carousel({
   const categoryExtraLink = category.link_extra;
   const videos = category.videos;
   return (
-    <VideoCardGroupContainer>
+    <LivroCardGroupContainer>
       {categoryTitle && (
         <>
           <Title style={{ backgroundColor: categoryColor || 'red' }}>
@@ -33,7 +33,7 @@ function Carousel({
 
           return (
             <SliderItem key={video.titulo}>
-              <VideoCard
+              <LivroCard
                 videoTitle={video.titulo}
                 videoURL={video.url}
                 categoryColor={categoryColor}
@@ -42,8 +42,8 @@ function Carousel({
           );
         })}
       </Slider>
-    </VideoCardGroupContainer>
+    </LivroCardGroupContainer>
   );
 }
 
-export default Carousel;
+export default LivroCardGroup;
