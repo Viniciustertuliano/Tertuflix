@@ -10,16 +10,16 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+          "url": "https://www.youtube.com/watch?v=fYR9L2ZmodM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Você já viu como é fácil utilizar o Expo",
+          "url": "https://www.youtube.com/watch?v=uxZe6TGsVJk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -52,24 +52,28 @@
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Curso de Flask ",
+          "url": "https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O que é Spring Boot e quais as vantagens de usá-lo?",
+          "url": "https://www.youtube.com/watch?v=ABjV1bObFW8"
         },
+        {
+          "titulo": "O que é API? REST e RESTful?",
+          "url": "https://www.youtube.com/watch?v=ghTrp1x_1As"
+        }, 
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
           "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         }
       ]
     },
@@ -104,20 +108,58 @@
       "cor": "orange",
       "videos": [
         {
+          "titulo": "Cidade de Deus",
+          "url": "https://www.youtube.com/watch?v=dcUOO4Itgmw"
+        },
+        {
+          "titulo": "Get Out",
+          "url": "https://www.youtube.com/watch?v=mDGV5UucTu8"
+        },
+        {
+          "titulo": "Us",
+          "url": "https://www.youtube.com/watch?v=hNCmb-4oXJA"
+        },
+        {
+          "titulo": "HER",
+          "url": "https://www.youtube.com/watch?v=dJTU48_yghs"
+        },
+        {
+          "titulo": "Fruitvale Station",
+          "url": "https://www.youtube.com/watch?v=crMTGCCui5c"
+        },
+        {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        }
+      ]
+    },
+    {
+      "titulo": "Livros",
+      "cor": "#27e8be",
+      "videos": [
+        {
+          "titulo": "Need For Speed Underground 1",
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FSapiens-Uma-Breve-Hist%25C3%25B3ria-Humanidade%2Fdp%2F8525434590&psig=AOvVaw38_OQ4QqFkooOIfiHSFQA3&ust=1596133365375000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCI76aK8-oCFQAAAAAdAAAAABAD"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "God Of War 1",
+          "url": "https://www.youtube.com/watch?v=jZkX3LJDeYQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Forza Horizon",
+          "url": "https://www.youtube.com/watch?v=1XRbcwEyifw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The Last of Us",
+          "url": "https://www.youtube.com/watch?v=46ohP30YA_Y"
+        },
+        {
+          "titulo": "The Last of Us 2",
+          "url": "https://www.youtube.com/watch?v=qPNiIeKMHyg"
+        },
+        {
+          "titulo": "Black",
+          "url": "https://www.youtube.com/watch?v=G_FeNewtM_I"
         }
       ]
     },
@@ -130,24 +172,28 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Need For Speed Underground 1",
+          "url": "https://www.youtube.com/watch?v=Ahl_QwuABEU"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "God Of War 1",
+          "url": "https://www.youtube.com/watch?v=jZkX3LJDeYQ"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Forza Horizon",
+          "url": "https://www.youtube.com/watch?v=1XRbcwEyifw"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "The Last of Us",
+          "url": "https://www.youtube.com/watch?v=46ohP30YA_Y"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The Last of Us 2",
+          "url": "https://www.youtube.com/watch?v=qPNiIeKMHyg"
+        },
+        {
+          "titulo": "Black",
+          "url": "https://www.youtube.com/watch?v=G_FeNewtM_I"
         }
       ]
     },
