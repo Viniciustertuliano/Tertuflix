@@ -18,6 +18,10 @@
           "url": "https://www.youtube.com/watch?v=uxZe6TGsVJk"
         },
         {
+          "titulo": "Como fazer efeito de desenhar com CSS e SVG? ",
+          "url": "https://www.youtube.com/watch?v=4cEMgap9wpk"
+        },
+        {
           "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
           "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
         },
@@ -135,31 +139,35 @@
     },
     {
       "titulo": "Livros",
-      "cor": "#27e8be",
+      "cor": "#d474fc",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
       "videos": [
         {
-          "titulo": "Need For Speed Underground 1",
-          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FSapiens-Uma-Breve-Hist%25C3%25B3ria-Humanidade%2Fdp%2F8525434590&psig=AOvVaw38_OQ4QqFkooOIfiHSFQA3&ust=1596133365375000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCI76aK8-oCFQAAAAAdAAAAABAD"
+          "titulo": "SAPIENS: UMA BREVE HISTÓRIA DA HUMANIDADE",
+          "url": "https://www.youtube.com/watch?v=AdkDyqxJULE"
         },
         {
-          "titulo": "God Of War 1",
-          "url": "https://www.youtube.com/watch?v=jZkX3LJDeYQ"
+          "titulo": "Capão Pecado, Ferréz",
+          "url": "https://www.youtube.com/watch?v=ypX84XZ1nYw"
         },
         {
-          "titulo": "Forza Horizon",
-          "url": "https://www.youtube.com/watch?v=1XRbcwEyifw"
+          "titulo": "Quarto de despejo (Carolina Maria de Jesus) ",
+          "url": "https://www.youtube.com/watch?v=ayW1pEPlUBQ"
         },
         {
-          "titulo": "The Last of Us",
-          "url": "https://www.youtube.com/watch?v=46ohP30YA_Y"
+          "titulo": "NÓS, DE ZAMIÁTIN",
+          "url": "https://www.youtube.com/watch?v=r4-9Ntpii8o"
         },
         {
-          "titulo": "The Last of Us 2",
-          "url": "https://www.youtube.com/watch?v=qPNiIeKMHyg"
+          "titulo": "FAHRENHEIT 451",
+          "url": "https://www.youtube.com/watch?v=TDYUuAF6WPE"
         },
         {
-          "titulo": "Black",
-          "url": "https://www.youtube.com/watch?v=G_FeNewtM_I"
+          "titulo": "RACIONAIS MC'S",
+          "url": "https://www.youtube.com/watch?v=FppnGmwuSU0"
         }
       ]
     },
